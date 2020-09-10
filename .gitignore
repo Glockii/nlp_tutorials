@@ -1,0 +1,12 @@
+*.swp
+*.idea
+*.DS_Store
+__pycache__
+*.log
+**.tmp
+*.pyc
+*/**/*.zip
+/data
+/output
+**/**/__init__.py
+/.project
